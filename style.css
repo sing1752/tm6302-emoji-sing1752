@@ -1,0 +1,14 @@
+.emoji-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.emoji-gallery .emoji-item {
+    text-align: center;
+    margin: 1rem;
+}
+
+.emoji-gallery .emoji-item .emoji {
+    font-size: 5rem;
+}
